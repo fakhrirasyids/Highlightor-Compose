@@ -47,7 +47,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.fakhrirasyids.highlightor"
+            groupId = "com.github.fakhrirasyids"
             artifactId = "highlightor"
             version = "0.0.1"
 

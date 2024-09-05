@@ -1,5 +1,4 @@
 import java.net.URI
-import java.net.URL
 
 pluginManagement {
     repositories {
@@ -23,8 +22,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Highlightor"
+rootProject.name = "Highlightor-Compose"
 
-include(":app")
+include(":sample")
 include(":Highlightor")
 
