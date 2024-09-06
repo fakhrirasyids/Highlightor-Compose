@@ -15,7 +15,7 @@
 
 ### Step 2
 	dependencies {
-	        implementation 'com.github.fakhrirasyids:Highlightor-Compose:Tag'
+	        implementation 'com.github.fakhrirasyids:Highlightor-Compose:v0.0.1'
 	}
 
 ## Preview
