@@ -2,6 +2,8 @@
 
 [![](https://jitpack.io/v/fakhrirasyids/Highlightor-Compose.svg)](https://jitpack.io/#fakhrirasyids/Highlightor-Compose)
 
+A jetpack compose library to highlight composable views.
+
 ## How to add
 
 ### Step 1
