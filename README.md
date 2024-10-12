@@ -80,3 +80,7 @@ Adjust the index parameter to the desired displaying order.
             )
             ...
 ```
+
+License
+-----------------
+This library is available as open source under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
